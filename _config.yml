@@ -3,8 +3,6 @@ logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I'm Patrick. I'm an Economics and Computer Science student with a passion for data and machine learning modeling to inform business decisions.
   <br><br>
-  My main interests are in Finance and Macroeconomics, specifically applying new quantitative techniques to those spaces to gain new insights.
-  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
