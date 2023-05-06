@@ -13,7 +13,7 @@ Project link: [Here](https://github.com/patrick-seib/ontario-house-prices)
 Interactive Tableau link: [Here](https://prod-ca-a.online.tableau.com/t/patrickseib/views/OntarioHousePricesportfolioproject_16833333685710/Overview)
 
 ---
-[Project 2 Title](https://github.com/patrick-seib/retail-sales-forecasting-project)
+[Canadian Retail Sales Forecasting](https://github.com/patrick-seib/retail-sales-forecasting-project)
 <img src="images/forecasting_project_pymodel.png?raw=true"/>
 
 <img src="images/forecastingproject.png?raw=true"/>
@@ -22,7 +22,7 @@ This project forecasts total retail sales data in Canada. In the project, I used
 Project link: [Here](https://github.com/patrick-seib/retail-sales-forecasting-project)
 
 ---
-[Project 3 Title](https://github.com/patrick-seib/econ-416/blob/master/Relationship_Between_News_and_Asset_Prices.ipynb)
+[Relationship Between News and Asset Prices](https://github.com/patrick-seib/econ-416/blob/master/Relationship_Between_News_and_Asset_Prices.ipynb)
 <img src="images/forecastvsjobchange.png?raw=true"/>
 This project used Python to evaluate the effect of news releases (employment data from the American Government) and the effect of Wall Street Journal forecasts on asset prices. Specifically, S&P500 prices and 3-month, 1-year, and 10-year government bonds were evaluted to see if the release of news or forecasts had any effect of the valuation of that security. I also checked to see if there was any effect on assets in the time surrounding that news release, either the days leading up to or the days after.
 
