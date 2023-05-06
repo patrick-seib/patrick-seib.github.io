@@ -4,9 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/ontario-house-prices)
+[Ontario House Prices](/ontario-house-prices)
 <img src="images/Overview.png?raw=true"/>
-
+This project uses Python and Jupyter Notebooks to process and clean data, and Tableau to visualize that data afterwards. I used a Random Forest classifier model to fill in unidentified area names, using their lattitude and longitudinal values. I also identified and removed outliers from the data. After it was cleaned and ready for processing, I used Tableau for data visualization.
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
