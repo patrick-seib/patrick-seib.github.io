@@ -3,7 +3,7 @@ logo: "/images/edited_web.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I'm Patrick. I'm an Economics and Computer Science student with a passion for data and machine learning modeling to inform business decisions.
   <br><br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/patrick-seib-a2595a275/">View My LinkedIn Profile</a> 
   <br>
   <a href="patrick-seib.github.io/about.md">About Me and CV</a>
 remote_theme: pages-themes/minimal@v0.2.0
