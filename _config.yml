@@ -4,7 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hi, I'm Patrick. I'm an Economics and Computer Science student with a passion for data and machine learning modeling to inform business decisions.
   <br><br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  <br><br>
   <a href="patrick-seib.github.io/about.md">Personal Description and CV</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
