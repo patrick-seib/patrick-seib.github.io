@@ -7,4 +7,4 @@ With job experiences as varied as math and statistics tutoring to sheering sheep
 
 ### CV
 
-[Download my CV here](<src="pdf/CV.pdf?raw=true"/>)
+[Download my CV here](/pdf/CV.pdf)
